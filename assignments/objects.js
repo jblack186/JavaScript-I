@@ -86,6 +86,7 @@ console.log(intern2.speak);
   return num1 * num2;
 }
 console.log(intern5.multiplyNums(3,4));
+console.log(Object.keys(intern5));
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 
 // ==== Stretch Challenge: Nested Objects and the this keyword ==== 
