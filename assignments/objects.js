@@ -69,6 +69,12 @@ const intern5 = {
 
 // Antonietta's Gender
 
+console.log(intern1.name);
+console.log(intern2.id);
+console.log(intern3.email);
+console.log(intern4.name);
+console.log(intern5.gender);
+
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 // console.log(kennan.speak());
